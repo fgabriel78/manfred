@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,20 +9,19 @@
       "name": "Gabriel",
       "surnames": "Muñoz Rodríguez",
       "title": "Engineering Senior Manager",
-      "description": "20 years of experience working on IT, specially on software development and innovation teams. Extremely goals oriented, always looking for the easiest way to get things work.\n",
+      "description": "",
       "avatar": {
         "alt": "1605793123289-peque.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/389eba53-441a-4bdf-8525-8c846d7b10f0_1605793123289-peque.jpg"
       },
       "location": {
-        "notes": "Sevilla"
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Sevilla",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/fgabrielmunoz"
-      },
       {
         "type": "github",
         "URL": "https://github.com/fgabriel78"
@@ -30,6 +29,36 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/fgabriel"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/fgabrielmunoz"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
       }
     ]
   },
@@ -41,6 +70,14 @@
           "URL": "https://www.linkedin.com/in/fgabrielmunoz"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Engineering Management",
+        "IT Manager",
+        "VP of Engineering"
+      ]
+    },
+    "status": "searchingActively"
   }
 }
