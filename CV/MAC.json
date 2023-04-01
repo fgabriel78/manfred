@@ -129,6 +129,34 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Aconsa - Cajasur",
+          "image": {
+            "alt": "logo-Cajasur.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/3aad8807-9dfb-4c4f-b289-859c03dccdf6_logo-cajasur.svg"
+          },
+          "URL": "https://portal.cajasur.es/cs/Satellite/cajasur/es/particulares-0"
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "1999-09-01",
+            "finishDate": "2000-07-01",
+            "challenges": [
+              {
+                "description": "I was a developer in a project to build an ERP for CajaSur Renting."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
