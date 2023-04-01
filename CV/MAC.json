@@ -79,6 +79,28 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Berger Levrault",
+          "image": {
+            "alt": "019002022-EXLO-20651.gif",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/e5352cd3-a0be-47b8-80be-36420af40c2f_019002022-exlo-20651.gif"
+          },
+          "URL": "https://www.berger-levrault.com/es/"
+        },
+        "roles": [
+          {
+            "name": "Technology Manager",
+            "startDate": "2003-10-01",
+            "finishDate": "2018-12-01",
+            "challenges": [
+              {
+                "description": "I have had di\u0018erent stages in the last years:\n• Since 2015, leading the technological renovation process,\ntransforming legacy desktop solutions into innovative newgeneration\nproducts. I manage the technological strategy of\nBerger Levrault in Spain. I also participate as a technical reference\nin international projects from the Berger Levrault group.\n• In the period 2013-2015: leading the area of eGovernment, Architecture\nand Integrations. With a large team of development\nengineers we develop leading solutions in Document Management,\nBPM, Portals, eProcurement, Business Intelligence and\nmobile apps for Spanish Local Government.\n• Previously, I assumed Technical Product Manager role in the Finance\nArea, leading development teams and projects."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
