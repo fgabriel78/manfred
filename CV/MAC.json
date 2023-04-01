@@ -9,7 +9,7 @@
       "name": "Gabriel",
       "surnames": "Muñoz Rodríguez",
       "title": "Engineering Senior Manager",
-      "description": "",
+      "description": "20 years of experience working on IT, specially on software development and innovation teams. Extremely goals oriented, always looking for the easiest way to get things work.\n",
       "avatar": {
         "alt": "1605793123289-peque.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/389eba53-441a-4bdf-8525-8c846d7b10f0_1605793123289-peque.jpg"
@@ -73,6 +73,7 @@
     },
     "preferences": {
       "preferredRoles": [
+        "Director / General Manager",
         "Engineering Management",
         "IT Manager",
         "VP of Engineering"
