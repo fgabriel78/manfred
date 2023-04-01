@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Sevilla",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Sevilla"
       }
     },
     "relevantLinks": [
@@ -36,15 +35,38 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Admiral Group plc",
+          "image": {
+            "alt": "logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/1ff3a5f4-38ea-4a36-bc9b-5e16c24c52c5_logo.svg"
+          },
+          "URL": "https://admiralgroup.co.uk/"
+        },
+        "roles": [
+          {
+            "name": "Head of EU Technology",
+            "startDate": "2023-02-01",
+            "challenges": [
+              {
+                "description": "Reporting to the European CIO, I design the cross-country tech strategy\nfor our European businesses, in collaboration with the local CTOs,\nand I lead the team in charge of the implementation of such an European\ntech strategy."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -78,7 +100,6 @@
         "IT Manager",
         "VP of Engineering"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
