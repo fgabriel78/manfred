@@ -57,6 +57,28 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Admiral Group plc",
+          "image": {
+            "alt": "logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/647634d9-1d48-4b1f-a6d7-7619d403a80c_logo.svg"
+          },
+          "URL": "https://admiralgroup.co.uk/"
+        },
+        "roles": [
+          {
+            "name": "Senior Engineering Manager",
+            "startDate": "2018-12-01",
+            "finishDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "Direction of the technical team (50 people) that gives cross service to\nall the Group’s insurance companies in Europe in the following areas:\n• Cloud strategy, governance and migration to the public cloud\n(AWS)\n• Security program (ISP)\n• Global Architecture\n• Development and"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
