@@ -198,6 +198,21 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/0852d373-2173-44a2-98ae-20540a76657e_universidad-de-grana.jpg"
           }
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computers Diploma of Higher Education",
+        "startDate": "1996-09-01",
+        "finishDate": "1999-07-01",
+        "institution": {
+          "name": "University of Cordoba",
+          "URL": "https://www.uco.es/",
+          "image": {
+            "alt": "logo_uco.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/ff0dbee4-89bb-44f9-8810-838d002159cc_logo_uco.png"
+          }
+        }
       }
     ]
   },
