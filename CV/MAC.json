@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Sevilla",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Sevilla"
       }
     },
     "relevantLinks": [
@@ -164,12 +163,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -183,6 +180,23 @@
         "skill": {
           "name": "JAVA",
           "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computers Engineer Degree",
+        "startDate": "2000-09-01",
+        "finishDate": "2002-09-01",
+        "institution": {
+          "name": "University of Granada",
+          "URL": "https://www.ugr.es/",
+          "image": {
+            "alt": "Universidad-de-Granada.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/0852d373-2173-44a2-98ae-20540a76657e_universidad-de-grana.jpg"
+          }
         }
       }
     ]
@@ -239,7 +253,6 @@
         "IT Manager",
         "VP of Engineering"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
