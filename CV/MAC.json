@@ -207,6 +207,10 @@
           "type": "technology"
         },
         {
+          "name": "Flask",
+          "type": "technology"
+        },
+        {
           "name": "Google Cloud",
           "type": "technology"
         },
@@ -216,6 +220,10 @@
         },
         {
           "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Cloud",
           "type": "technology"
         }
       ],
