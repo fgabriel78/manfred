@@ -185,6 +185,21 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certified SAFe 5 Release Train Engineer",
+        "startDate": "2022-03-01",
+        "finishDate": "2023-03-01",
+        "institution": {
+          "name": "Scaled Agile",
+          "URL": "https://scaledagile.com/",
+          "image": {
+            "alt": "R.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/340cfbfa-2429-4294-9ecd-70c227755173_r.png"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Executive Master in Business Administration",
