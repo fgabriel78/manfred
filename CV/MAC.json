@@ -187,6 +187,21 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Executive Master in Business Administration",
+        "startDate": "2011-09-01",
+        "finishDate": "2012-06-01",
+        "institution": {
+          "name": "Escuela de Organización Industrial (EOI)",
+          "URL": "https://www.eoi.es/",
+          "image": {
+            "alt": "l.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/8cf74465-eedb-4bbd-ac88-126a08cf1999_l.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Computers Engineer Degree",
         "startDate": "2000-09-01",
         "finishDate": "2002-09-01",
