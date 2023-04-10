@@ -186,6 +186,20 @@
     "studies": [
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certificate in Advanced English",
+        "startDate": "2000-09-01",
+        "institution": {
+          "name": "Cambridge Assessment English",
+          "URL": "https://www.cambridgeenglish.org/",
+          "image": {
+            "alt": "OIP.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/42c94fea-ead9-40fb-a69b-a1915812bc8a_oip.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "Certified SAFe 5 Release Train Engineer",
         "startDate": "2023-03-01",
