@@ -187,6 +187,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "ITIL Foundation",
+        "startDate": "2014-06-01",
+        "institution": {
+          "name": "Axelos",
+          "URL": "https://www.axelos.com/",
+          "image": {
+            "alt": "axelos_owler_20160227_162132_large.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/262cc65e-b51b-44ec-bff5-f5495acdc0c6_axelos_owler_2016022.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificate in Advanced English",
         "startDate": "2000-09-01",
         "institution": {
