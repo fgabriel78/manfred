@@ -187,6 +187,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Oracle Certified Associate, Java SE 8 Programmer",
+        "startDate": "2016-02-01",
+        "institution": {
+          "name": "Oracle",
+          "URL": "https://www.oracle.com/",
+          "image": {
+            "alt": "OIP (1).jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/2c7380e0-8bf6-4da8-9640-e3f2dc9d050c_oip-(1).jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "ITIL Foundation",
         "startDate": "2014-06-01",
         "institution": {
