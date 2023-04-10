@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,13 +11,14 @@
       "title": "Head of EU Technology",
       "description": "20 years of experience working on IT, specially on software development and innovation teams. Extremely goals oriented, always looking for the easiest way to get things work.\n",
       "avatar": {
-        "alt": "1605793123289-peque.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/389eba53-441a-4bdf-8525-8c846d7b10f0_1605793123289-peque.jpg"
+        "alt": "gabriel.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/d39d13e9-0087-437f-afcb-9042144c8eab_gabriel.jpg"
       },
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Sevilla"
+        "municipality": "Sevilla",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -163,10 +164,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -191,6 +194,7 @@
         "startDate": "2016-02-01",
         "institution": {
           "name": "Oracle",
+          "description": "",
           "URL": "https://www.oracle.com/",
           "image": {
             "alt": "OIP (1).jpg",
@@ -205,6 +209,7 @@
         "startDate": "2014-06-01",
         "institution": {
           "name": "Axelos",
+          "description": "",
           "URL": "https://www.axelos.com/",
           "image": {
             "alt": "axelos_owler_20160227_162132_large.jpg",
@@ -219,6 +224,7 @@
         "startDate": "2000-09-01",
         "institution": {
           "name": "Cambridge Assessment English",
+          "description": "",
           "URL": "https://www.cambridgeenglish.org/",
           "image": {
             "alt": "OIP.jpg",
@@ -234,6 +240,7 @@
         "finishDate": "2024-03-01",
         "institution": {
           "name": "Scaled Agile",
+          "description": "",
           "URL": "https://scaledagile.com/",
           "image": {
             "alt": "R.png",
@@ -249,6 +256,7 @@
         "finishDate": "2012-06-01",
         "institution": {
           "name": "Escuela de Organización Industrial (EOI)",
+          "description": "",
           "URL": "https://www.eoi.es/",
           "image": {
             "alt": "l.jpg",
@@ -264,6 +272,7 @@
         "finishDate": "2002-09-01",
         "institution": {
           "name": "University of Granada",
+          "description": "",
           "URL": "https://www.ugr.es/",
           "image": {
             "alt": "Universidad-de-Granada.jpg",
@@ -279,6 +288,7 @@
         "finishDate": "1999-07-01",
         "institution": {
           "name": "University of Cordoba",
+          "description": "",
           "URL": "https://www.uco.es/",
           "image": {
             "alt": "logo_uco.png",
@@ -340,6 +350,7 @@
         "IT Manager",
         "VP of Engineering"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
