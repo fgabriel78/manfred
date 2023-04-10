@@ -227,6 +227,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Director / General Manager",
         "Engineering Management",
