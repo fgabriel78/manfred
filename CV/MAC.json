@@ -175,13 +175,25 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AWS",
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
           "type": "technology"
         }
       }
