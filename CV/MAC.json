@@ -392,6 +392,20 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "API",
+        "type": "technology"
+      },
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "International environment, product company, working on the \"next big thing\" or in the optimization of the IT operations"
   }
 }
