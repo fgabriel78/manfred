@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,17 +11,21 @@
       "title": "Head of EU Technology",
       "description": "20 years of experience working on IT, specially on software development and innovation teams. Extremely goals oriented, always looking for the easiest way to get things work.\n",
       "avatar": {
-        "alt": "gabriel.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/d39d13e9-0087-437f-afcb-9042144c8eab_gabriel.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/d39d13e9-0087-437f-afcb-9042144c8eab_gabriel.jpg",
+        "alt": "gabriel.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Sevilla",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Sevilla"
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/fgabrielmunoz"
+      },
       {
         "type": "github",
         "URL": "https://github.com/fgabriel78"
@@ -29,10 +33,6 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/fgabriel"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/fgabrielmunoz"
       }
     ]
   },
@@ -42,8 +42,8 @@
         "organization": {
           "name": "Admiral Group plc",
           "image": {
-            "alt": "logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/1ff3a5f4-38ea-4a36-bc9b-5e16c24c52c5_logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/1ff3a5f4-38ea-4a36-bc9b-5e16c24c52c5_logo.svg",
+            "alt": "logo.svg"
           },
           "URL": "https://admiralgroup.co.uk/"
         },
@@ -63,8 +63,8 @@
         "organization": {
           "name": "Admiral Group plc",
           "image": {
-            "alt": "logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/647634d9-1d48-4b1f-a6d7-7619d403a80c_logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/647634d9-1d48-4b1f-a6d7-7619d403a80c_logo.svg",
+            "alt": "logo.svg"
           },
           "URL": "https://admiralgroup.co.uk/"
         },
@@ -85,8 +85,8 @@
         "organization": {
           "name": "Berger Levrault",
           "image": {
-            "alt": "019002022-EXLO-20651.gif",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/e5352cd3-a0be-47b8-80be-36420af40c2f_019002022-exlo-20651.gif"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/e5352cd3-a0be-47b8-80be-36420af40c2f_019002022-exlo-20651.gif",
+            "alt": "019002022-EXLO-20651.gif"
           },
           "URL": "https://www.berger-levrault.com/es/"
         },
@@ -107,8 +107,8 @@
         "organization": {
           "name": "Tecnilógica - Accenture",
           "image": {
-            "alt": "logo_tecnilogica_16_9.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/15736920-7137-4335-aa09-d8d93a5d3b48_logo_tecnilogica_16_.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/15736920-7137-4335-aa09-d8d93a5d3b48_logo_tecnilogica_16_.png",
+            "alt": "logo_tecnilogica_16_9.png"
           },
           "URL": "https://www.accenture.com/es-es/services/technology-consulting/tecnilogica"
         },
@@ -135,8 +135,8 @@
         "organization": {
           "name": "Aconsa - Cajasur",
           "image": {
-            "alt": "logo-Cajasur.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/3aad8807-9dfb-4c4f-b289-859c03dccdf6_logo-cajasur.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/3aad8807-9dfb-4c4f-b289-859c03dccdf6_logo-cajasur.svg",
+            "alt": "logo-Cajasur.svg"
           },
           "URL": "https://portal.cajasur.es/cs/Satellite/cajasur/es/particulares-0"
         },
@@ -164,24 +164,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
+          "name": "API",
           "type": "technology"
         }
       },
@@ -193,7 +189,13 @@
       },
       {
         "skill": {
-          "name": "API",
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       }
@@ -202,45 +204,14 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Oracle Certified Associate, Java SE 8 Programmer",
-        "startDate": "2016-02-01",
-        "institution": {
-          "name": "Oracle",
-          "description": "",
-          "URL": "https://www.oracle.com/",
-          "image": {
-            "alt": "OIP (1).jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/2c7380e0-8bf6-4da8-9640-e3f2dc9d050c_oip-(1).jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "ITIL Foundation",
-        "startDate": "2014-06-01",
-        "institution": {
-          "name": "Axelos",
-          "description": "",
-          "URL": "https://www.axelos.com/",
-          "image": {
-            "alt": "axelos_owler_20160227_162132_large.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/262cc65e-b51b-44ec-bff5-f5495acdc0c6_axelos_owler_2016022.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Certificate in Advanced English",
         "startDate": "2000-09-01",
         "institution": {
           "name": "Cambridge Assessment English",
-          "description": "",
           "URL": "https://www.cambridgeenglish.org/",
           "image": {
-            "alt": "OIP.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/42c94fea-ead9-40fb-a69b-a1915812bc8a_oip.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/42c94fea-ead9-40fb-a69b-a1915812bc8a_oip.jpg",
+            "alt": "OIP.jpg"
           }
         }
       },
@@ -249,63 +220,107 @@
         "degreeAchieved": true,
         "name": "Certified SAFe 5 Release Train Engineer",
         "startDate": "2023-03-01",
-        "finishDate": "2024-03-01",
         "institution": {
           "name": "Scaled Agile",
-          "description": "",
           "URL": "https://scaledagile.com/",
           "image": {
-            "alt": "R.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/340cfbfa-2429-4294-9ecd-70c227755173_r.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/340cfbfa-2429-4294-9ecd-70c227755173_r.png",
+            "alt": "R.png"
           }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Executive Master in Business Administration",
-        "startDate": "2011-09-01",
-        "finishDate": "2012-06-01",
-        "institution": {
-          "name": "Escuela de Organización Industrial (EOI)",
-          "description": "",
-          "URL": "https://www.eoi.es/",
-          "image": {
-            "alt": "l.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/8cf74465-eedb-4bbd-ac88-126a08cf1999_l.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Computers Engineer Degree",
-        "startDate": "2000-09-01",
-        "finishDate": "2002-09-01",
-        "institution": {
-          "name": "University of Granada",
-          "description": "",
-          "URL": "https://www.ugr.es/",
-          "image": {
-            "alt": "Universidad-de-Granada.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/0852d373-2173-44a2-98ae-20540a76657e_universidad-de-grana.jpg"
-          }
-        }
+        },
+        "finishDate": "2024-03-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computers Diploma of Higher Education",
         "startDate": "1996-09-01",
-        "finishDate": "1999-07-01",
         "institution": {
           "name": "University of Cordoba",
-          "description": "",
           "URL": "https://www.uco.es/",
           "image": {
-            "alt": "logo_uco.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/ff0dbee4-89bb-44f9-8810-838d002159cc_logo_uco.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/ff0dbee4-89bb-44f9-8810-838d002159cc_logo_uco.png",
+            "alt": "logo_uco.png"
           }
+        },
+        "finishDate": "1999-07-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computers Engineer Degree",
+        "startDate": "2000-09-01",
+        "institution": {
+          "name": "University of Granada",
+          "URL": "https://www.ugr.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/0852d373-2173-44a2-98ae-20540a76657e_universidad-de-grana.jpg",
+            "alt": "Universidad-de-Granada.jpg"
+          }
+        },
+        "finishDate": "2002-09-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Executive Master in Business Administration",
+        "startDate": "2011-09-01",
+        "institution": {
+          "name": "Escuela de Organización Industrial (EOI)",
+          "URL": "https://www.eoi.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/8cf74465-eedb-4bbd-ac88-126a08cf1999_l.jpg",
+            "alt": "l.jpg"
+          }
+        },
+        "finishDate": "2012-06-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "ITIL Foundation",
+        "startDate": "2014-06-01",
+        "institution": {
+          "name": "Axelos",
+          "URL": "https://www.axelos.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/262cc65e-b51b-44ec-bff5-f5495acdc0c6_axelos_owler_2016022.jpg",
+            "alt": "axelos_owler_20160227_162132_large.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Oracle Certified Associate, Java SE 8 Programmer",
+        "startDate": "2016-02-01",
+        "institution": {
+          "name": "Oracle",
+          "URL": "https://www.oracle.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/2c7380e0-8bf6-4da8-9640-e3f2dc9d050c_oip-(1).jpg",
+            "alt": "OIP (1).jpg"
+          }
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Leadership skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Strategic vision",
+          "type": "practice"
         }
       }
     ]
@@ -314,9 +329,20 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/fgabrielmunoz"
+          "URL": "https://www.linkedin.com/in/fgabrielmunoz",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/fgabriel78",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/fgabriel",
+          "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "gabriel@munozrodriguez.me"
       ]
     },
     "preferences": {
@@ -364,5 +390,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "International environment, product company, working on the \"next big thing\" or in the optimization of the IT operations"
   }
 }
